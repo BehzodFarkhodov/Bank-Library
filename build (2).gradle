@@ -4,7 +4,7 @@ plugins {
 
 }
 
-group = 'org.example.bank'
+group = 'org.example'
 version = '1.0.1'
 
 java {
@@ -42,7 +42,7 @@ publishing {
                 }
                 scm {
                     connection = 'scm:git:git://github.com/BehzodFarkhodov/Bank-Library.git'
-                    developerConnection = 'scm:git:ssh://github.com/your-repo-url.git'
+                    developerConnection = 'scm:git:ssh://github.com/BehzodFarkhodov/Bank-Library.git'
                     url = 'https://github.com/BehzodFarkhodov/Bank-Library'
                 }
             }
