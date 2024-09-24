@@ -14,5 +14,6 @@ public class DepositTypeRequest {
     private Float minAmount;
     private Integer interest;
     private Integer duration;
-    private DepositType returnType;
+    // test
+//    private DepositType returnType;
 }
